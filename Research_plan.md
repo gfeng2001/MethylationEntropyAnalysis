@@ -13,7 +13,7 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] [kmer counting in E.coli](K-mer Counting.ipynb){:target="_blank"}
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html){:target="_blank"}
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
-- [ ]  <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown tutorial</a>
+- [ ] <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown tutorial</a>
 
 
 ## 1.3. Literatures
