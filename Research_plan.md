@@ -12,7 +12,7 @@ Alex Chekholko <chekh@stanford.edu>
 ## 1.2. Jupyter Python
 - [x] [kmer counting in E.coli](./K-mer Counting.ipynb)
 - [x] [kmer counting in E.coli](Practice/K-mer Counting.ipynb)
-- [x] [kmer counting in E.coli](gfeng2001/Practice/K-mer Counting.ipynb)
+- [x] [kmer counting in E.coli](../gfeng2001/Practice/K-mer Counting.ipynb)
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
