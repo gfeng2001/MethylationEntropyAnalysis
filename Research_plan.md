@@ -11,7 +11,7 @@ Alex Chekholko <chekh@stanford.edu>
 - [ ] scg4
 
 ## 1.2. Jupyter Python
-- [x] kmer counting in E.coli (Gilbert) <a href="K-mer Counting.ipynb">(link)</a>
+- [x] kmer counting in E.coli (<a href="K-mer Counting.ipynb">link</a>) Gilbert
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
