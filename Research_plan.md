@@ -13,6 +13,10 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] [kmer counting in E.coli](./K-mer Counting.ipynb)
 - [x] [kmer counting in E.coli](Practice/K-mer Counting.ipynb)
 - [x] [kmer counting in E.coli](../gfeng2001/Practice/K-mer Counting.ipynb)
+<a href="K-mer Counting.ipynb">K-mer Counting.ipynb</a>
+<a href="Practice/K-mer Counting.ipynb">K-mer Counting.ipynb</a>
+<a href="gfeng2001/Practice/K-mer Counting.ipynb">K-mer Counting.ipynb</a>
+
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
