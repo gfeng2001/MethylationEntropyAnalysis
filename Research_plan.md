@@ -13,6 +13,8 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] [kmer counting in E.coli](K-mer Counting.ipynb){:target="_blank"}
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html){:target="_blank"}
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
+- [ ]  <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown tutorial</a>
+
 
 ## 1.3. Literatures
 - [ ] [BSMAP: whole genome bisulfite sequence MAPping program](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-232){:target="_blank"}
