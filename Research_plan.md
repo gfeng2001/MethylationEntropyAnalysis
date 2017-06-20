@@ -8,7 +8,7 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] SUnetID
 - [x] dual authentication
 - [ ] vpn (https://uit.stanford.edu/service/vpn/)
-- [x] scg4
+- [ ] scg4
 
 ## 1.2. Jupyter Python
 - [x] <a href="K-mer Counting.ipynb">kmer counting in E.coli</a>
