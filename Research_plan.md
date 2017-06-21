@@ -24,10 +24,10 @@ Alex Chekholko <chekh@stanford.edu>
 # 2. Theory
 
 ## 2.1. Entropy
-- input
-- output
--- graph1 
--- graph2
+...* input : 
+...* output
+...* graph1 
+...** graph2
 
 
 ## 2.2. DMR
