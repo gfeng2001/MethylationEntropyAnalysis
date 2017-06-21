@@ -7,8 +7,8 @@ Alex Chekholko <chekh@stanford.edu>
 
 - [x] SUnetID
 - [x] dual authentication
-- [ ] vpn (https://uit.stanford.edu/service/vpn/)
-- [ ] scg4
+- [x] vpn (https://uit.stanford.edu/service/vpn/)
+- [x] scg4
 
 ## 1.2. Jupyter Python
 - [x] kmer counting in E.coli (<a href="K-mer Counting.ipynb">link</a>) Gilbert
@@ -24,6 +24,11 @@ Alex Chekholko <chekh@stanford.edu>
 # 2. Theory
 
 ## 2.1. Entropy
+- input
+- output
+-- graph1 
+-- graph2
+
 
 ## 2.2. DMR
 
