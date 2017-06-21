@@ -24,11 +24,11 @@ Alex Chekholko <chekh@stanford.edu>
 # 2. Theory
 
 ## 2.1. Entropy
-* input : 
-* output
-  * graph1 
-  ** graph2
-
+* input : E.coli genome, K-mer
+* output : Entropy given K-mer and position
+  * graph1 : position vs. entropy
+  * graph2 : histogram of entropy given K=10
+  * graph3 : average of enropy for K=4..28  
 
 ## 2.2. DMR
 
