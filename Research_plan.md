@@ -24,7 +24,7 @@ Alex Chekholko <chekh@stanford.edu>
 # 2. Theory
 
 ## 2.1. Entropy
-### pipeline
+### 2.1.1. pipeline
 
 * input : E.coli genome, K-mer
 * output : Entropy given K-mer and position
@@ -34,7 +34,7 @@ Alex Chekholko <chekh@stanford.edu>
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
   
-### Related biology   
+### 2.1.2. Related biology   
 * microsatellites
 * Tandem repeat
 
