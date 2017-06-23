@@ -30,7 +30,7 @@ Alex Chekholko <chekh@stanford.edu>
 * output : Entropy given K-mer and position
   * graph1 : position (x-axis) vs. entropy (y-axis) (K=15,30,60), for the first ~160bp
   * graph1 : position (x-axis) vs. entropy (y-axis) (K=15,30,60), for the whole genome, hint : sampling
-  * The min and max entropy -> extract sequence K bp before and after window. 
+  * The min and max entropy -> extract sequence K bp before and after window.
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
   
