@@ -26,9 +26,11 @@ Alex Chekholko <chekh@stanford.edu>
 ## 2.1. Entropy
 * input : E.coli genome, K-mer
 * output : Entropy given K-mer and position
-  * graph1 : position (x-axis) vs. entropy (y-axis) (K=10)
-  * graph2 : histogram of entropy given K=10, x-axis is entropy.
+  * graph1 : position (x-axis) vs. entropy (y-axis) (K=10), for the first ~160bp
+  * graph1 : position (x-axis) vs. entropy (y-axis) (K=10), for the whole genome, hint : sampling
+  * graph2 : histogram of entropy given K=10, x-axis is entropy. 
+  * The min and max entropy -> extract sequence K bp before and after window. 
   * graph3 : average of enropy for K=4..28  
-
+ 
 ## 2.2. DMR
 
