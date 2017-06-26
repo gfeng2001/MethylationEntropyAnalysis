@@ -51,5 +51,10 @@ Alex Chekholko <chekh@stanford.edu>
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
 
+* todo : 
+graph1: add legend
+graph2: remove black edge
+graph3: add point marker, filled circle. 
+
 ## 2.3. DMR
 
