@@ -52,12 +52,16 @@ Alex Chekholko <chekh@stanford.edu>
   * graph3 : average of enropy for K=4..28
 
 * todo : 
-  * add entropy theory with formular, goole 'latex' 
+  * add entropy theory with formular, google 'latex' 
   * graph1: add legend
   * graph2: remove black edge
   * graph3: add point marker, filled circle. 
 
-* 
+* Summarize BSMAP
+  * methylation 
+  * How does Bisulfite sequencing work
+  * the algorithm of BSMAP
+  
 
 ## 2.3. DMR
 
