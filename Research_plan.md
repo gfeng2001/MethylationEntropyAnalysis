@@ -23,8 +23,19 @@ Alex Chekholko <chekh@stanford.edu>
 
 # 2. Projects
 
-## 2.1. Project 1 : Select microsatellites candidate region using entropy 
+## 2.1. Project 1 : Uniq k-mer counting
 ### 2.1.1. Theory
+* The concept of K-mer
+* Biology
+  * DNA-seq
+  
+### 2.2.1. Implementation
+* Input : E.coli genome
+* Output 
+  * The number of uniq kmers given various K
+
+## 2.2. Project 2 : Select microsatellites candidate region using entropy 
+### 2.2.1. Theory
 * Information thoery
   * Entropy
 * Biology
@@ -40,5 +51,5 @@ Alex Chekholko <chekh@stanford.edu>
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
 
-## 2.2. DMR
+## 2.3. DMR
 
