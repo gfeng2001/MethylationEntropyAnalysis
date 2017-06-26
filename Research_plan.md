@@ -23,7 +23,7 @@ Alex Chekholko <chekh@stanford.edu>
 
 # 2. Projects
 
-## 2.1. Select microsatellites candidate region using entropy 
+## 2.1. Project 1 : Select microsatellites candidate region using entropy 
 ### 2.1.1. Theory
 * Information thoery
   * Entropy
