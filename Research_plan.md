@@ -52,9 +52,12 @@ Alex Chekholko <chekh@stanford.edu>
   * graph3 : average of enropy for K=4..28
 
 * todo : 
-graph1: add legend
-graph2: remove black edge
-graph3: add point marker, filled circle. 
+  * add entropy theory with formular, goole 'latex' 
+  * graph1: add legend
+  * graph2: remove black edge
+  * graph3: add point marker, filled circle. 
+
+* 
 
 ## 2.3. DMR
 
