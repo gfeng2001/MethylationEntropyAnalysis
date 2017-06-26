@@ -21,11 +21,17 @@ Alex Chekholko <chekh@stanford.edu>
 - [ ] [MOABS: model based analysis of bisulfite sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r38)
 
 
-# 2. Theory
+# 2. Projects
 
-## 2.1. Entropy
-### 2.1.1. pipeline
+## 2.1. Select microsatellites candidate region using entropy 
+### 2.1.1. Theory
+* Information thoery
+  * Entropy
+* Biology
+  * microsatellites
+  * Tandem repeat
 
+### 2.2.1. Implementation
 * input : E.coli genome, K-mer
 * output : Entropy given K-mer and position
   * graph1 : position (x-axis) vs. entropy (y-axis) (K=15,30,60), for the first ~160bp
@@ -33,10 +39,6 @@ Alex Chekholko <chekh@stanford.edu>
   * The min and max entropy -> extract sequence K bp before and after window.
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
-  
-### 2.1.2. Related biology   
-* microsatellites
-* Tandem repeat
 
 ## 2.2. DMR
 
