@@ -52,7 +52,7 @@ Alex Chekholko <chekh@stanford.edu>
   * graph3 : average of enropy for K=4..28
 
 
-## 2.3. todo : 
+## 2.3. todo
 * Project 2
   * add entropy theory with formular, google 'latex' 
   * graph1: add legend
