@@ -14,6 +14,7 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] kmer counting in E.coli (<a href="K-mer Counting.ipynb">link</a>) Gilbert
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [ ] [Latex tutorial](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
 
 
 ## 1.3. Literatures
