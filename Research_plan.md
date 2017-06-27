@@ -14,7 +14,11 @@ Alex Chekholko <chekh@stanford.edu>
 - [x] kmer counting in E.coli (<a href="K-mer Counting.ipynb">link</a>) Gilbert
 - [ ] [matplotlib](http://matplotlib.org/users/pyplot_tutorial.html)
 - [ ] [Markdown tutorial](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<<<<<<< HEAD
 - [ ] [Latex tutorial](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
+=======
+- [ ] [Latex in Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
+>>>>>>> 03895452d8a1ded3fadeb326561618acfbc8f205
 
 
 ## 1.3. Literatures
@@ -22,11 +26,28 @@ Alex Chekholko <chekh@stanford.edu>
 - [ ] [MOABS: model based analysis of bisulfite sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r38)
 
 
-# 2. Theory
+# 2. Projects
 
-## 2.1. Entropy
-### 2.1.1. pipeline
+## 2.1. Project 1 : Uniq k-mer counting
+### 2.1.1. Theory
+* The concept of K-mer
+* Biology
+  * DNA-seq
+  
+### 2.2.1. Implementation
+* Input : E.coli genome
+* Output 
+  * The number of uniq kmers given various K
 
+## 2.2. Project 2 : Select microsatellites candidate region using entropy 
+### 2.2.1. Theory
+* Information thoery
+  * Entropy
+* Biology
+  * microsatellites
+  * Tandem repeat
+
+### 2.2.1. Implementation
 * input : E.coli genome, K-mer
 * output : Entropy given K-mer and position
   * graph1 : position (x-axis) vs. entropy (y-axis) (K=15,30,60), for the first ~160bp
@@ -34,10 +55,20 @@ Alex Chekholko <chekh@stanford.edu>
   * The min and max entropy -> extract sequence K bp before and after window.
   * graph2 : histogram of entropy given K=10, x-axis is entropy.
   * graph3 : average of enropy for K=4..28
-  
-### 2.1.2. Related biology   
-* microsatellites
-* Tandem repeat
 
-## 2.2. DMR
+
+## 2.3. todo
+* Project 2
+  * add entropy theory with formular, google 'latex' 
+  * graph1: add legend
+  * graph2: remove black edge
+  * graph3: add point marker, filled circle. 
+
+* Summarize BSMAP
+  * methylation 
+  * How does Bisulfite sequencing work
+  * the algorithm of BSMAP
+  
+
+## 2.3. DMR
 
