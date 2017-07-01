@@ -62,4 +62,4 @@ Alex Chekholko <chekh@stanford.edu>
   * Bisulfite sequencing
   * DMR (Differentially Methylated Region)
 ### 2.3.1. Implementation
-* KL Divergence : [theory and practice](<a href="KL Divergence.ipynb">link</a>) 
+* KL Divergence : <a href="KL Divergence.ipynb">theory and practice</a>
