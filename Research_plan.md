@@ -24,7 +24,7 @@ Alex Chekholko <chekh@stanford.edu>
 
 # 2. Projects
 
-## 2.1. Project 1 : Uniq k-mer counting
+## Project 1 : Uniq k-mer counting
 ### 2.1.1. Theory
 * The concept of K-mer
 * Biology
@@ -35,7 +35,7 @@ Alex Chekholko <chekh@stanford.edu>
 * Output 
   * The number of uniq kmers given various K
 
-## 2.2. Project 2 : Select microsatellites candidate region using entropy 
+## Project 2 : Select microsatellites candidate region using entropy 
 ### 2.2.1. Theory
 * Information thoery
   * Entropy
@@ -53,18 +53,13 @@ Alex Chekholko <chekh@stanford.edu>
   * graph3 : average of enropy for K=4..28
 
 
-## 2.3. todo
-* Project 2
-  * add entropy theory with formular, google 'latex' 
-  * graph1: add legend
-  * graph2: remove black edge
-  * graph3: add point marker, filled circle. 
-
-* Summarize BSMAP
-  * methylation 
-  * How does Bisulfite sequencing work
-  * the algorithm of BSMAP
-  
-
-## 2.3. DMR
-
+## Project 3 : KL Divergence
+### 2.3.1. Theory
+* Information thoery
+  * Entropy
+* Biology
+  * Methylation
+  * Bisulfite sequencing
+  * DMR (Differentially Methylated Region)
+### 2.3.1. Implementation
+kmer counting in E.coli (<a href="KL Divergence.ipynb">link</a>) Gilbert
