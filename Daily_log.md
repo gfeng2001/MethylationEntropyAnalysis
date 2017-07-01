@@ -9,3 +9,4 @@
 | June/23/2017 (Fri) | kmer entropy algorithm, graphs completed, comments |
 | June/26/2017 (Mon) | polished up kmer entropy graphs, added entropy introduction markdown |
 | June/27/2017 (Tue) | Read and summarize BSMAP paper | Scheduled on-site meeting Saturday 10am |
+| June/28/2017 (Wed) - June 30/2017 (Fri) | Summarized BSMAP paper and made powerpoint |
