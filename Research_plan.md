@@ -62,4 +62,4 @@ Alex Chekholko <chekh@stanford.edu>
   * Bisulfite sequencing
   * DMR (Differentially Methylated Region)
 ### 2.3.1. Implementation
-kmer counting in E.coli (<a href="KL Divergence.ipynb">link</a>) Gilbert
+* KL Divergence : [theory and practice](<a href="KL Divergence.ipynb">link</a>) 
