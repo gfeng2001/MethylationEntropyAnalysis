@@ -9,4 +9,7 @@
 | June/23/2017 (Fri) | kmer entropy algorithm, graphs completed, comments |
 | June/26/2017 (Mon) | polished up kmer entropy graphs, added entropy introduction markdown |
 | June/27/2017 (Tue) | Read and summarize BSMAP paper | Scheduled on-site meeting Saturday 10am |
-| June/28/2017 (Wed) - June 30/2017 (Fri) | Summarized BSMAP paper and made powerpoint |
+| June/28/2017 (Wed) - June/30/2017 (Fri) | Summarized BSMAP paper and made powerpoint |
+| July/1/2017 (Sat) | | Met up with Hayan at the lab, started using divergence, intro to project |
+| July/3/2017 (Mon) - July/5/2017 (Wed) | Finished original functions in KL Divergence, finished Example 1 graphs |
+| July/6/2017 (Thu) | Added plot points to Example 1 graphs, added functions that calculated entropy and divergence using bins for Normal and Poisson Distributions (Examples 2-6) |
