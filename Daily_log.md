@@ -15,3 +15,4 @@
 | July/6/2017 (Thu) | Added plot points to Example 1 graphs, added functions that calculated entropy and divergence using bins for Normal and Poisson Distributions (Examples 2-6) |
 | July/10/2017 (Mon) | Fixed divergence = inf case by using psuedocounting in the divergence functions, split KL divergence into 3 separate programs for each type of distribution | check in on live-scan and paperwork for working on-site |
 | July/11/2017 (Tue) - July/12/2017 (Wed) | added KL graphs and finished JS Divergence function |
+| July/13/2017 (Thu) | finished JSD graphs |
