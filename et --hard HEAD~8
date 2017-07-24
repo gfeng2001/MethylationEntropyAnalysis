@@ -1,0 +1,559 @@
+[33mcommit daec944e0decc25748d465e3cdc0e73e999be753[m
+Author: Gilbert Feng <gfeng01@scg4-ln04.stanford.edu>
+Date:   Mon Jul 24 11:50:46 2017 -0700
+
+    updated JPDivergence
+
+[33mcommit 92dea970ac1d81b90339ec7fa983fb2f5f23ee7e[m
+Author: Gilbert Feng <gfeng01@scg4-ln04.stanford.edu>
+Date:   Mon Jul 24 11:48:55 2017 -0700
+
+    updated JPDivergence
+
+[33mcommit 9f01bc7fd58ea337c076a525e5084bef2d718121[m
+Author: Gilbert Feng <gfeng01@scg4-ln04.stanford.edu>
+Date:   Mon Jul 24 11:47:09 2017 -0700
+
+    update JPDivergence
+
+[33mcommit 5829e943db4a434d8105e942203bcdc3f14fe669[m
+Author: Gilbert Feng <gfeng01@scg4-ln01.stanford.edu>
+Date:   Mon Jul 24 11:38:52 2017 -0700
+
+    updated JPDivergence
+
+[33mcommit 467f4c5cde147b14cb1c6609ded21af79dbc2346[m
+Author: Gilbert Feng <gfeng01@scg4-ln01.stanford.edu>
+Date:   Mon Jul 24 11:35:59 2017 -0700
+
+    updated JPDivergence
+
+[33mcommit 0988f3f0254f9a284113919d9da147b2e375e8fe[m
+Author: Gilbert Feng <gfeng01@scg4-ln01.stanford.edu>
+Date:   Mon Jul 24 11:34:45 2017 -0700
+
+    updated JPDivergence
+
+[33mcommit dada6baceb02609e6d496f7a1cc282555eca5ff9[m
+Author: Gilbert Feng <gfeng01@scg4-ln01.stanford.edu>
+Date:   Mon Jul 24 11:32:59 2017 -0700
+
+    updated JPChr to work for all files
+
+[33mcommit 6d7704ed2080d43914ae352703f09e668c45eb7f[m
+Author: Gilbert Feng <gfeng01@scg4-ln02.stanford.edu>
+Date:   Mon Jul 24 10:49:41 2017 -0700
+
+    updated JPChr
+
+[33mcommit 85519fc3c7cbee971972174d03807842fa0a8fec[m
+Author: Gilbert Feng <gfeng01@scg4-ln02.stanford.edu>
+Date:   Thu Jul 20 09:52:40 2017 -0700
+
+    Added JPDivergence
+
+[33mcommit 73b0799b3e274bf28b581194614ef26b2cebf993[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sat Jul 15 10:59:20 2017 -0700
+
+    finished JSD
+
+[33mcommit 4bfdafb93dbbf963c8e955a0400512a7028666fa[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 13 19:09:53 2017 -0700
+
+    finished JSD
+
+[33mcommit 1ed9d28391ce3e3a19dde76b99cb8946d5a3c584[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 13 19:04:55 2017 -0700
+
+    updated Daily log
+
+[33mcommit 6fcd7e4fc664d76c3e7a11298562ebd8b3114805[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 13 10:33:58 2017 -0700
+
+    updated Daily log
+
+[33mcommit f9d11bd9e8655468b11b0792d576cc7bb807aeee[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 13 10:32:36 2017 -0700
+
+    added KL graphs and finished JSD function
+
+[33mcommit 9e50fa20daa92ded5a16120a8546aad7b1e4d473[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jul 10 14:51:21 2017 -0700
+
+    finished KL divergence for the different distributions and split into different programs
+
+[33mcommit e98938b47204b48140093158bd0a43dd66b00ad9[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jul 10 14:49:58 2017 -0700
+
+    updated Daily log
+
+[33mcommit 0333ec41af6560142dbb9200988dd66192c65427[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Fri Jul 7 16:02:21 2017 -0700
+
+    added np.random.seed(0) and changed logs to natural log
+
+[33mcommit b473ba1d19ca227d7ad27b9b37dfebde51b9c531[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 6 16:32:15 2017 -0700
+
+    updated Daily log
+
+[33mcommit 024ab67ab187f46fb6a2dc0b26d1da362ab18203[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Thu Jul 6 16:25:22 2017 -0700
+
+    finished KL divergence
+
+[33mcommit 41162e5456b03c74cb1f614dec91a4d128b6cf61[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Sat Jul 1 14:54:49 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 7aa3ff9dc2a9da6984b371a7f10806dda99f218c[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Sat Jul 1 14:54:16 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 93c07ac0417e4a6acc097fd5844084ab264a37c8[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Sat Jul 1 14:53:22 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 0a3a8665d91905c7ab60c5117f7492116d4d75ca[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Sat Jul 1 14:52:00 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit c32f6aa193c039c2fc8408b7700e16ddf03b72d7[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Sat Jul 1 14:41:51 2017 -0700
+
+    KLD
+
+[33mcommit c1c31a8e174c76f6fc7d43bdb00170e1dbead1e2[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Fri Jun 30 17:07:35 2017 -0700
+
+    Finished BSMAP Presentation, updated Daily log
+
+[33mcommit 870ab463137e940c79c15aaf5d0bbae6a9ddae74[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Wed Jun 28 21:36:24 2017 -0700
+
+    updated Daily log format
+
+[33mcommit ba0304d1354d9301fb6408d5093798043a5c34a2[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Wed Jun 28 21:34:35 2017 -0700
+
+    updated Daily log
+
+[33mcommit 6660369081f5cad7cc64e46dc07bd500b4d26a41[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jun 26 18:30:11 2017 -0700
+
+    updated Latex
+
+[33mcommit 6fda3bb178a607b301a8afe678b529901519aaed[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jun 26 18:24:50 2017 -0700
+
+    updated Latex
+
+[33mcommit e7fafd0792b38bdf08d673ddf9d1ad1135055ffb[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jun 26 18:22:29 2017 -0700
+
+    updated Research plan
+
+[33mcommit 6e7b1e07e31417e87200b09131207b44071a9801[m
+Merge: f6d208a 0389545
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jun 26 18:20:25 2017 -0700
+
+    Polished up graphs and added markdown info on entropy
+
+[33mcommit f6d208ab28e9a9534029fd708937e52bcf47b639[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Mon Jun 26 18:19:04 2017 -0700
+
+    Polished up graphs and added markdown info on entropy
+
+[33mcommit 03895452d8a1ded3fadeb326561618acfbc8f205[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:29:18 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit a441f653165a6fa853ac0549995e5c0c45d9d48f[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:26:21 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 9282cf2fdc842deafe8c14d51e7fac3eec49a46a[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:25:50 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 4a0b02b893759d28b063ba19aa283841fc4f1b03[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:24:49 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit b089b0a724a3bf0fe0a24b91db0f6ea03a4e69b2[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:23:01 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 11b5853845562f4f2a7e74b5bba5d6a96ce4cf4d[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:20:15 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 6d6cae8aca165f29cd90e9751ac73e39187233e5[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:14:38 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 3e33608600e6925751f38adaa65861af762948c4[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:09:02 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit f97bb7de3e447eb6e8d7370e705d52b151f6f451[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Mon Jun 26 10:08:37 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit b116a241ec92bda96fa17bb4442a0ec770b65257[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sun Jun 25 19:01:37 2017 -0700
+
+    Added regression models for graph3
+
+[33mcommit 8c9185eb848a2738b2beb5f17739591e82eb81d9[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sun Jun 25 18:59:15 2017 -0700
+
+    Added regression anaylsis for graph3
+
+[33mcommit 103399a1da29221efd7a75bb08cd9fa48b2ccb55[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sun Jun 25 18:41:52 2017 -0700
+
+    Finished comments on K-mer Entropy
+
+[33mcommit 13716ca403bdce7cb3abed333e9d86640dee6702[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sun Jun 25 17:23:33 2017 -0700
+
+    Finished K-mer Entropy
+
+[33mcommit 45137e226a973824d06b2feb6ffe8e474f14e6f2[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Sun Jun 25 13:00:32 2017 -0700
+
+    Finished Entropy Graphs
+
+[33mcommit 9cf4ed7b7f9e49bf94eef76afb1c92ea9e3706a4[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Fri Jun 23 10:39:41 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit e5e676e3fe3ad87f99c8be4eb8362344406b521e[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Fri Jun 23 10:30:52 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 08ea656aa7191f2300f5c84ef2e34edd64cd0d7b[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Fri Jun 23 10:30:08 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 3bd33c83f39c634f3c3c576e0ebdc1f00308e46a[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Fri Jun 23 10:29:37 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit f1b410821c43d4d617ba3a4515f30d9e0e95d1aa[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Fri Jun 23 10:20:43 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit b599f05a2760486377ad3ef7e3bdc13f2e7d83ca[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Fri Jun 23 09:56:22 2017 -0700
+
+    Finished main algorithm for k-mer Entropy
+
+[33mcommit 3f09615f5f857e2df57d0d98800c5cc043658214[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Thu Jun 22 10:15:12 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit f71d995389417dbd828e845e2fca63b9a1f94326[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Wed Jun 21 10:31:17 2017 -0700
+
+    Rename Daily log.md to Daily_log.md
+
+[33mcommit 39640bac8fd5a22d105daa889e86bb23dcad1a5d[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Wed Jun 21 10:25:47 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit e3efeebadac48b5ac3b84408472cae7c56622b87[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Wed Jun 21 10:22:11 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit eb54f7871aabd96d50135da965a0c17a4633d009[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Wed Jun 21 10:20:34 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 7346daf9a633f278ee1a1224c4eb6e1e69cd9bb2[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Wed Jun 21 10:15:36 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit b0bd267b8107549b3ce57e7110c9448e94f8ac28[m
+Author: gfeng2001 <gfeng2001@gmail.com>
+Date:   Tue Jun 20 14:55:59 2017 -0700
+
+    Updated K-mer Counting with axes, title, and comments on the cells of code
+
+[33mcommit 9b09d6ae41e48b9c3b297d927ef91e93d3b158f0[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:14:45 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit d2d22b6e80b44c5b9b2a8546822446c769a31402[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:14:01 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit a7b103b290af604e042755f4925c2fc4c6b78afa[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:13:39 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 512f8614fe7d901885a2ee24f4c87545347900a0[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:12:42 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 20813393d230b1d4436d8a24c1ef9a56a93de87e[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:12:29 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 4e52e10e6a97bd6b2a39ae27be0378a80a9b168f[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:11:53 2017 -0700
+
+    Delete Daily Log.ipynb
+
+[33mcommit fcd47b5b0716aff69c4cf1c7fb45c7a4953d7fe6[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:11:29 2017 -0700
+
+    Update Daily log.md
+
+[33mcommit ce8c0db655a7b353da4726ef90e76f15a61625db[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:10:28 2017 -0700
+
+    Rename Daily log to Daily log.md
+
+[33mcommit 9a63e67fd76e163226d1e95cd2927ff9f2b9eec6[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:10:19 2017 -0700
+
+    Create Daily log
+
+[33mcommit b20edaadd0794294ccf07d92a702eaacbe6e70b9[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:08:41 2017 -0700
+
+    Delete Research plan.ipynb
+
+[33mcommit acb2cce32557fb9b6c329a8baa66c61b24df8367[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:07:48 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 6de472ca57781127ca409ed2b27d28b7687599d5[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:06:47 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 49bebbf67e44230b91fca0e55b56446f179c9674[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:04:47 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit f8e69bc010b0211276a51b65b103793eae276f7e[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:02:52 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit c2f0579cf69fc2346fd721bb7357c5d5a4207bd3[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:00:45 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 24e5637d62b1c5f7673595661888bf2bf211d55b[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 12:00:09 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 33066f0e8bd29d9601fdc16b1ae39462fc7f1e68[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:58:22 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit 82fc7f427d8cccd7bd01bd6f5b94523db11526bb[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:57:21 2017 -0700
+
+    Update Research_plan.md
+
+[33mcommit a4910f45aa28ce8fc3cbd3a7234f0ff3b9eeaaef[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:56:14 2017 -0700
+
+    Update and rename todo.md to Research_plan.md
+
+[33mcommit 2cbe17646bb26bd7122f1c70089f6626a10cdbc1[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:54:16 2017 -0700
+
+    Update todo.md
+
+[33mcommit bccbdf16187393a977022383a53e70c9f5a12416[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:52:24 2017 -0700
+
+    Update todo.md
+
+[33mcommit e013a05d56ae86f3750ecd6fdaf361a8224b3132[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:51:43 2017 -0700
+
+    Update todo.md
+
+[33mcommit 27fd5b7ce497855f338e2e4e4ed92e11a3eef408[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:51:01 2017 -0700
+
+    Update todo.md
+
+[33mcommit c307e7e0d0fa936ae1b5d9715081e22aee002215[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:50:48 2017 -0700
+
+    Create todo.md
+
+[33mcommit 9f8270a87bab53de83876aac3ede1013311752a3[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:48:06 2017 -0700
+
+    add
+
+[33mcommit 97bfe94e8c1d75ff905ab7e1c9c5a7743c753749[m
+Merge: 64357cb 5003802
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:34:00 2017 -0700
+
+    Merge branch 'master' of https://github.com/gfeng2001/Practice
+
+[33mcommit 50038026cb848cc6d72dda48b6921215272bd598[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:33:25 2017 -0700
+
+    Delete schedule.ipynb
+
+[33mcommit 64357cb09350b7bf7ec991498cf0009d67ea0afe[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:32:58 2017 -0700
+
+    rename
+
+[33mcommit 8e522830c5c6e171454ecf39474221bd4b10b786[m
+Author: hayanlee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:18:28 2017 -0700
+
+    Delete readme.md
+
+[33mcommit 5f1b7476ce40b313c6e9ee0bcd064aa43f41afea[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:17:56 2017 -0700
+
+    modi schedule
+
+[33mcommit 7cf82a8473630324510801776d79a6df768bf4fa[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:16:19 2017 -0700
+
+    modi schedule
+
+[33mcommit b1d9f10c32453b25c6b6117b606af6c90124f5d0[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:15:03 2017 -0700
+
+    modischedule
+
+[33mcommit 78c109cedd85584e32dd1ff334a993e48bb46b90[m
+Author: Hayan Lee <dis98daniel@gmail.com>
+Date:   Tue Jun 20 11:05:12 2017 -0700
+
+    add schedule
+
+[33mcommit 4068ff909b577b3f3bc04a8191f7afc5a5f90a76[m
+Author: Gilbert Feng <gfeng2001@Gilberts-MacBook-Pro.local>
+Date:   Mon Jun 19 10:26:15 2017 -0700
+
+    First commit
