@@ -2,6 +2,7 @@
 
 import div
 import sys
+import datetime
   
 def make_dictionary(c):
 
@@ -18,7 +19,7 @@ def make_dictionary(c):
   d2 = {}
   d3 = {}
   d4 = {}
-
+  print >> sys.stderr,"before f1", datetime.datetime.now()
   for l in f1:
     if l.startswith('#'):
       pass
@@ -28,36 +29,42 @@ def make_dictionary(c):
       #print "f1: ", ele[0:4]
       d1[int(ele[1])] = float(ele[3])
 
-    for l in f2:
-      if l.startswith('#'):
-        pass
-      else:
-        #print l
-        ele = l.strip().split()
-        #print "f2: ", ele[0:4]
-        d2[int(ele[1])] = float(ele[3])
+  print >> sys.stderr,"before f2", datetime.datetime.now()
+  for l in f2:
+    if l.startswith('#'):
+      pass
+    else:
+      #print l
+      ele = l.strip().split()
+      #print "f2: ", ele[0:4]
+      d2[int(ele[1])] = float(ele[3])
 
-    for l in f3:
-      if l.startswith('#'):
-        pass
-      else:
-        #print l
-        ele = l.strip().split()
-        #print "f3: ", ele[0:4]
-        d3[int(ele[1])] = float(ele[3])
+  print >> sys.stderr,"before f3", datetime.datetime.now()
+  for l in f3:
+    if l.startswith('#'):
+      pass
+    else:
+      #print l
+      ele = l.strip().split()
+      #print "f3: ", ele[0:4]
+      d3[int(ele[1])] = float(ele[3])
 
-    for l in f4:
-      if l.startswith('#'):
-        pass
-      else:
-        #print l
-        ele = l.strip().split()
-        #print "f4: ", ele[0:4]
-        d4[int(ele[1])] = float(ele[3])
-        #print("here")
-        all_pos =  set(d1.keys()) | set(d2.keys()) | set(d3.keys()) | set(d4.keys())
+  print >> sys.stderr,"before f4", datetime.datetime.now()
+  for l in f4:
+    if l.startswith('#'):
+      pass
+    else:
+      #print l
+      ele = l.strip().split()
+      #print "f4: ", ele[0:4]
+      d4[int(ele[1])] = float(ele[3])
+      #print("here")
+  print >> sys.stderr,"before set", datetime.datetime.now()
+  all_pos =  set(d1.keys()) | set(d2.keys()) | set(d3.keys()) | set(d4.keys())
+  print >> sys.stderr,"before min", datetime.datetime.now()
   start = min(all_pos)
   end = max(all_pos)
+  print >> sys.stderr,"after max", datetime.datetime.now()
   epsilon = 0.0001
   #print(len(all_pos))
   for p in all_pos:
@@ -67,6 +74,7 @@ def make_dictionary(c):
     if p not in d3 or abs(d3[p])<0.0005: d3[p] = epsilon
     if p not in d4 or abs(d4[p])<0.0005: d4[p] = epsilon
   #print("here")
+  print >> sys.stderr,"before return", datetime.datetime.now()
   return d1, d2, d3, d4, start, end
 
 def compute(c, l, sh):

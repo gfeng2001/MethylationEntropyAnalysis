@@ -3,4 +3,8 @@ Traceback (most recent call last):
     import div
   File "/home/gfeng01/Practice/JPDivergence/div.py", line 3, in <module>
     import numpy as np
-ImportError: No module named numpy
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+

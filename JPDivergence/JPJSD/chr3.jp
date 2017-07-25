@@ -1,6 +1,8 @@
 Traceback (most recent call last):
-  File "./JP.py", line 3, in <module>
-    import div
-  File "/home/gfeng01/Practice/JPDivergence/div.py", line 3, in <module>
-    import numpy as np
-ImportError: No module named numpy
+  File "./JP.py", line 99, in <module>
+    compute(chrNumber, length, shift)
+  File "./JP.py", line 73, in compute
+    r = make_dictionary(c)
+  File "./JP.py", line 29, in make_dictionary
+    d1[int(ele[1])] = float(ele[3])
+KeyboardInterrupt
