@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "./JP.py", line 3, in <module>
+    import div
+  File "/home/gfeng01/Practice/JPDivergence/div.py", line 3, in <module>
+    import numpy as np
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/__init__.py", line 168, in <module>
+    from . import ma
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/ma/__init__.py", line 44, in <module>
+    from . import core
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/ma/core.py", line 8009, in <module>
+    frombuffer = _convert2ma('frombuffer')
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/ma/core.py", line 7976, in __init__
+    self._extras = params or {}
+KeyboardInterrupt

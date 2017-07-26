@@ -65,7 +65,7 @@ def make_dictionary(c):
   start = min(all_pos)
   end = max(all_pos)
   print >> sys.stderr,"after max", datetime.datetime.now()
-  epsilon = 0.0001
+  epsilon = 0.00001
   #print(len(all_pos))
   for p in all_pos:
     #print p

@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "./JP0725.py", line 3, in <module>
+    import div
+  File "/home/gfeng01/Practice/JPDivergence/div.py", line 3, in <module>
+    import numpy as np
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/__init__.py", line 142, in <module>
+    from . import add_newdocs
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/add_newdocs.py", line 13, in <module>
+    from numpy.lib import add_newdoc
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/lib/__init__.py", line 8, in <module>
+    from .type_check import *
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/lib/type_check.py", line 11, in <module>
+    import numpy.core.numeric as _nx
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/core/__init__.py", line 74, in <module>
+    from numpy.testing.nosetester import _numpy_tester
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/testing/__init__.py", line 12, in <module>
+    from . import decorators as dec
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/testing/decorators.py", line 20, in <module>
+    from .utils import SkipTest, assert_warns
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/testing/utils.py", line 15, in <module>
+    from tempfile import mkdtemp, mkstemp
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/tempfile.py", line 32, in <module>
+    import io as _io
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/io.py", line 69, in <module>
+    class IOBase(_io._IOBase):
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/abc.py", line 87, in __new__
+    cls = super(ABCMeta, mcls).__new__(mcls, name, bases, namespace)
+KeyboardInterrupt

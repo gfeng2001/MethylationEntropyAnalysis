@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "./JP.py", line 99, in <module>
+    compute(chrNumber, length, shift)
+  File "./JP.py", line 73, in compute
+    r = make_dictionary(c)
+  File "./JP.py", line 23, in make_dictionary
+    if l.startswith('#'):
+KeyboardInterrupt

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "./JP.py", line 99, in <module>
+    compute(chrNumber, length, shift)
+  File "./JP.py", line 73, in compute
+    r = make_dictionary(c)
+  File "./JP.py", line 15, in make_dictionary
+    f4 = open(fn4)
+KeyboardInterrupt
