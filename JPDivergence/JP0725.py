@@ -92,12 +92,12 @@ def compute(c, l, sh):
   for i in range(s, e-l+sh, sh):
    
     X = []
-    #X = [k for k in r[0] if i<=k<=i+l]
-    for k in r[0]:
-      if i<=k<=i+l:
-        X.append(k)
-      elif k>i+l:
-        break
+    X = [k for k in r[0] if i<=k<=i+l]
+    #for k in r[0]:
+     # if i<=k<=i+l:
+      #  X.append(k)
+     # elif k>i+l:
+      #  break
     d1 = {}
     d2 = {}
     d3 = {}

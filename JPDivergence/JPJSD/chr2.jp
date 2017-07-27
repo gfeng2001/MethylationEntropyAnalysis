@@ -1,4 +1,11 @@
-  File "./JP0725.py", line 99
-    else if k>i+l:
-          ^
-SyntaxError: invalid syntax
+before f1 2017-07-27 13:21:17.747351
+Traceback (most recent call last):
+  File "./JP0725.py", line 131, in <module>
+    main()
+  File "./JP0725.py", line 128, in main
+    compute(chrNumber, length, shift)
+  File "./JP0725.py", line 88, in compute
+    r = make_dictionary(c)
+  File "./JP0725.py", line 24, in make_dictionary
+    if l.startswith('#'):
+KeyboardInterrupt
