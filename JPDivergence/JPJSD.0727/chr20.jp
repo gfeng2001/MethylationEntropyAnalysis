@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 75, in <module>
+    __boot()
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 35, in __boot
+    imp.load_module('site',stream,path,descr)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 548, in <module>
+    main()
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 531, in main
+    known_paths = addsitepackages(known_paths)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 313, in addsitepackages
+    addsitedir(sitedir, known_paths)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 190, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 156, in addpackage
+    if not dircase in known_paths and os.path.exists(dir):
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/genericpath.py", line 18, in exists
+    os.stat(path)
+KeyboardInterrupt

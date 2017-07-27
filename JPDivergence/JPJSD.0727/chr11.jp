@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/encodings/__init__.py", line 31, in <module>
+    import codecs
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/codecs.py", line 8, in <module>
+    """#"
+KeyboardInterrupt

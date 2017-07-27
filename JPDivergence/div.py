@@ -12,10 +12,5 @@ def KLD(d1, d2):
   
   return s
 
-def JSD(d1, d2):
-  m = {}
-
-  for k in d1:
-    m[k] = (d1[k] + d2[k])/2
-
+def JSD(d1, d2, m):
   return (KLD(d1, m) + KLD(d2, m))/2

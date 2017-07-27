@@ -1,8 +1,4 @@
-Traceback (most recent call last):
-  File "./JP.py", line 99, in <module>
-    compute(chrNumber, length, shift)
-  File "./JP.py", line 73, in compute
-    r = make_dictionary(c)
-  File "./JP.py", line 27, in make_dictionary
-    ele = l.strip().split()
-KeyboardInterrupt
+  File "./JP0725.py", line 99
+    else if k>i+l:
+          ^
+SyntaxError: invalid syntax

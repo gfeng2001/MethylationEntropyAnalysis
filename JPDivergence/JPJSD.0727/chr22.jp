@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 75, in <module>
+    __boot()
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 3, in __boot
+    import os
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/os.py", line 49, in <module>
+    import posixpath as path
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/posixpath.py", line 17, in <module>
+    import warnings
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/warnings.py", line 1, in <module>
+    """Python part of the warnings subsystem."""
+KeyboardInterrupt

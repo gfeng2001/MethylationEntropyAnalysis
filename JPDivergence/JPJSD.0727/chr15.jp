@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 75, in <module>
+    __boot()
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 50, in __boot
+    addsitedir(item)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 190, in addsitedir
+    addpackage(sitedir, name, known_paths)
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site.py", line 143, in addpackage
+    f = open(fullname, "rU")
+KeyboardInterrupt

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 75, in <module>
+    __boot()
+  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/site.py", line 3, in __boot
+    import os
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/os.py", line 715, in <module>
+    import copy_reg as _copy_reg
+  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/copy_reg.py", line 5, in <module>
+    """
+KeyboardInterrupt

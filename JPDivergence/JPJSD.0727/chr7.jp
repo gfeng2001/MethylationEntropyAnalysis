@@ -1,0 +1,4 @@
+  File "./JP0725.py", line 99
+    else if k>i+l:
+          ^
+SyntaxError: invalid syntax

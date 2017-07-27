@@ -74,8 +74,15 @@ def make_dictionary(c):
     if p not in d3 or abs(d3[p])<0.0005: d3[p] = epsilon
     if p not in d4 or abs(d4[p])<0.0005: d4[p] = epsilon
   #print("here")
+  m2 = {}
+  m3 = {}
+  m4 = {}
+  for k in d1:
+    m2[k] = (d1[k]+d2[k])/2
+    m3[k] = (d1[k]+d3[k])/2
+    m4[k] = (d1[k]+d4[k])/2
   print >> sys.stderr,"before return", datetime.datetime.now()
-  return d1, d2, d3, d4, start, end
+  return d1, d2, d3, d4, start, end, m2, m3, m4
 
 def compute(c, l, sh):
   r = make_dictionary(c)
@@ -83,19 +90,32 @@ def compute(c, l, sh):
   s = r[4]
   e = r[5]
   for i in range(s, e-l+sh, sh):
-    X = [k for k in r[0] if i<=k<=i+l]
+   
+    X = []
+    #X = [k for k in r[0] if i<=k<=i+l]
+    for k in r[0]:
+      if i<=k<=i+l:
+        X.append(k)
+      elif k>i+l:
+        break
     d1 = {}
     d2 = {}
     d3 = {}
     d4 = {}
+    m2 = {}
+    m3 = {}
+    m4 = {}
     for x in X:
       d1[x] = r[0][x]
       d2[x] = r[1][x]
       d3[x] = r[2][x]
       d4[x] = r[3][x]
-      jsd1 = div.JSD(d1, d2)
-      jsd2 = div.JSD(d1, d3)
-      jsd3 = div.JSD(d1, d4)
+      m2[x] = r[6][x]
+      m3[x] = r[7][x]
+      m4[x] = r[8][x]
+      jsd1 = div.JSD(d1, d2, m2)
+      jsd2 = div.JSD(d1, d3, m3)
+      jsd3 = div.JSD(d1, d4, m4)
 
       print >> sys.stderr, "{}:{}-{}\t{:.2f}\t{:.2f}\t{:.2f}".format( c, i, i+l, jsd1, jsd2, jsd3 )
   return
