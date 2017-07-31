@@ -1,12 +1,11 @@
+before f0 2017-07-30 18:35:15.039194
 Traceback (most recent call last):
-  File "./JP0725.py", line 3, in <module>
-    import div
-  File "/home/gfeng01/Practice/JPDivergence/div.py", line 3, in <module>
-    import numpy as np
-  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/__init__.py", line 165, in <module>
-    from . import polynomial
-  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/polynomial/__init__.py", line 19, in <module>
-    from .chebyshev import Chebyshev
-  File "/srv/gsfs0/software/numpy/1.13.1/lib/python2.7/site-packages/numpy-1.13.1-py2.7-linux-x86_64.egg/numpy/polynomial/chebyshev.py", line 87, in <module>
-    """
+  File "./JP0730.py", line 64, in <module>
+    main()
+  File "./JP0730.py", line 61, in main
+    compute(chrNumber, length, shift)
+  File "./JP0730.py", line 43, in compute
+    r = make_dictionary(c)
+  File "./JP0730.py", line 24, in make_dictionary
+    ele = l.strip().split()
 KeyboardInterrupt

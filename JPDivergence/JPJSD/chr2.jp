@@ -1,11 +1,11 @@
-before f1 2017-07-27 13:21:17.747351
+before f0 2017-07-30 18:35:14.878139
 Traceback (most recent call last):
-  File "./JP0725.py", line 131, in <module>
+  File "./JP0730.py", line 64, in <module>
     main()
-  File "./JP0725.py", line 128, in main
+  File "./JP0730.py", line 61, in main
     compute(chrNumber, length, shift)
-  File "./JP0725.py", line 88, in compute
+  File "./JP0730.py", line 43, in compute
     r = make_dictionary(c)
-  File "./JP0725.py", line 24, in make_dictionary
+  File "./JP0730.py", line 21, in make_dictionary
     if l.startswith('#'):
 KeyboardInterrupt
