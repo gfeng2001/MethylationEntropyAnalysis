@@ -66,8 +66,8 @@ Alex Chekholko <chekh@stanford.edu>
 
 
 ## Project 4 : JSD for methylation data
-### 
-* JSD modification 
+### Software
+#### JSD modification 
  1. Read 4 files
  2. make a set of positions for each
  3. get intersection of 4 sets
@@ -75,7 +75,7 @@ Alex Chekholko <chekh@stanford.edu>
  5. fill the 2d array
  6. compute JSD as we did
  
-* Hint
+#### Hint
  * np.nan
  * np.full
  * np.array
