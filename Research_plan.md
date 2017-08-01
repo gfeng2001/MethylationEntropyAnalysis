@@ -63,3 +63,24 @@ Alex Chekholko <chekh@stanford.edu>
   * DMR (Differentially Methylated Region)
 ### 2.3.1. Implementation
 * KL Divergence : <a href="KL divergence.ipynb">theory and practice</a>
+
+
+## Project 4 : JSD for methylation data
+### 
+* JSD modification 
+ 1. Read 4 files
+ 2. make a set of positions for each
+ 3. get intersection of 4 sets
+ 4. make 2d array of 4x(num of shared positions)
+ 5. fill the 2d array
+ 6. compute JSD as we did
+ 
+* Hint
+ * np.nan
+ * np.full
+ * np.array
+ * np.fill
+ 
+ 
+ 
+  
