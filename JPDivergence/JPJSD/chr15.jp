@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "./JP0730.py", line 6, in <module>
-    from scipy.sparse import coo_matrix
-  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site-packages/scipy-0.18.1-py2.7-linux-x86_64.egg/scipy/sparse/__init__.py", line 227, in <module>
-    from .bsr import *
-  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site-packages/scipy-0.18.1-py2.7-linux-x86_64.egg/scipy/sparse/bsr.py", line 22, in <module>
-    class bsr_matrix(_cs_matrix, _minmax_mixin):
-KeyboardInterrupt
