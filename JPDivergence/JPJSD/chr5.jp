@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "./JP0730.py", line 6, in <module>
-    from scipy.sparse import coo_matrix
-  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site-packages/scipy-0.18.1-py2.7-linux-x86_64.egg/scipy/sparse/__init__.py", line 225, in <module>
-    from .coo import *
-  File "/srv/gsfs0/software/python/python-2.7/lib/python2.7/site-packages/scipy-0.18.1-py2.7-linux-x86_64.egg/scipy/sparse/coo.py", line 1, in <module>
-    """ A sparse matrix in COOrdinate or 'triplet' format"""
-KeyboardInterrupt
